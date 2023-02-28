@@ -1,9 +1,0 @@
-﻿  main.cpp
-K:\c++ class\顺序刷题_34\顺序刷题_34\main.cpp(18,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-K:\c++ class\顺序刷题_34\顺序刷题_34\main.cpp(37,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-K:\c++ class\顺序刷题_34\顺序刷题_34\main.cpp(82,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-K:\c++ class\顺序刷题_34\顺序刷题_34\main.cpp(101,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-K:\c++ class\顺序刷题_34\顺序刷题_34\main.cpp(116,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-K:\c++ class\顺序刷题_34\顺序刷题_34\main.cpp(117,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-K:\c++ class\顺序刷题_34\顺序刷题_34\main.cpp(113): warning C4715: “firstMissingPositive”: 不是所有的控件路径都返回值
-  顺序刷题_34.vcxproj -> K:\c++ class\顺序刷题_34\x64\Debug\顺序刷题_34.exe
